@@ -5,7 +5,7 @@
 
 - 👨‍💻 Check out my other project, [Easylists for Pihole](https://github.com/0Zinc/easylists-for-pihole)
 
-- 📫 You can reach me at **zingy@zingawesome.com**
+- 📫 You can reach me at **zingy@zingyawesome.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
